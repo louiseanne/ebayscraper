@@ -1,4 +1,4 @@
-# HW03: ebay.dl/E-Bay Scraping
+# HW03: ebay.dl/eBay Scraping
 [HW03 for CSCI40 at CMC](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_03)
 
 ### What The ebay.dl File Does
