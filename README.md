@@ -32,3 +32,27 @@ For high heels.json:
 
     python3 ebay.dl 'high heels'
     
+### Extra Bonus Round: Creating CSV files instead of json files
+Use the same generic forms of command to run your ebay.dl file:
+
+    python3 ebay.dl 'search_term'
+
+But, to receive a CSV file instead of a json file, I have added an argument `csv`. Add `--csv` to the end of this command line, which looks like this:
+
+    python3 ebay.dl 'search_term' --csv
+    
+**The command lines to receive my specific CSV files look like this:**
+
+For heelys.csv:
+
+    python3 ebay.dl 'heelys' --csv
+    
+For converse.csv:
+
+    python3 ebay.dl 'converse' --csv
+    
+For high heels.csv:
+
+    python3 ebay.dl 'high heels' --csv
+    
+    
